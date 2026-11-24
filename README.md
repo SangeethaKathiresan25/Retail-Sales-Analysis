@@ -1,2 +1,2 @@
-# Retail-Sales-Analysis
-An end-to-end retail sales analysis project using Microsoft Excel to clean data, identify sales trends and create an interactive dashboard.
+# FIFA-World-Cup-2026-Player-Analysis
+Power BI project analysing FIFA World Cup 2026 player performance, tournament statistics, player ratings and team insights using Power Query and DAX.
